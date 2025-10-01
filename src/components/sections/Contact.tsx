@@ -22,7 +22,7 @@ const Contact = () => {
         </a>
 
         {/* Discord */}
-        <a href="https://discord.gg/ZRe2kuzf" target="_blank" rel="noopener noreferrer" className="w-16 h-16 rounded-full bg-[#2a1e4d] flex items-center justify-center text-white hover-lift interactive-card">
+        <a href="https://discord.gg/RMa7DnvJJr" target="_blank" rel="noopener noreferrer" className="w-16 h-16 rounded-full bg-[#2a1e4d] flex items-center justify-center text-white hover-lift interactive-card">
           <i className="fab fa-discord fa-lg" style={{ color: '#C13584' }}></i>
         </a>
 
